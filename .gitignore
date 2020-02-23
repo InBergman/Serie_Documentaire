@@ -1,3 +1,3 @@
-back-end/node_modules/*
-back-end\node_modules\*
-test/*
+/node_modules/*
+public/00_test/*
+
